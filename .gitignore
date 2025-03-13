@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv/
+backend/venv/
+
+# Ignore large files
+*.dll
+*.lib
+*.pyd
