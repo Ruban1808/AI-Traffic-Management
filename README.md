@@ -90,6 +90,6 @@ npm start
 ---
 
 ## 📧 Contact
-For any issues or queries, reach out at **your-email@example.com**  
+For any issues or queries, reach out at **clashruban12@gmail.com**  
 
 🚀 **Happy Coding!**
